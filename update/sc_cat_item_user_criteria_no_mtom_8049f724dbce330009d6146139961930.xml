@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="sindu sales laptop">5e525be8db4e330009d614613996197f</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 08:20:08</sys_created_on>
+        <sys_id>8049f724dbce330009d6146139961930</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sindu sales laptop.not available for software</sys_name>
+        <sys_package display_value="sri indu it" source="x_366669_sri_indu">b3cbb1d0db02330009d61461399619ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sri indu it">b3cbb1d0db02330009d61461399619ae</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_8049f724dbce330009d6146139961930</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 08:20:08</sys_updated_on>
+        <user_criteria display_value="not available for software">3559bfe0dbce330009d6146139961919</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+</record_update>

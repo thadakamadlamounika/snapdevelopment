@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="user info" section_id="f0213ed4db82330009d6146139961901" sys_domain="global" table="x_366669_sri_indu_log_incident" version="3" view="hello">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:25:18</sys_created_on>
+            <sys_id>c9213ed4db82330009d61461399619d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="user info" display_value="user info" name="x_366669_sri_indu_log_incident" sys_domain="global" view="7421fad4db82330009d61461399619fd">f0213ed4db82330009d6146139961901</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:25:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_start</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:25:18</sys_created_on>
+            <sys_id>4d213ed4db82330009d61461399619d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="user info" display_value="user info" name="x_366669_sri_indu_log_incident" sys_domain="global" view="7421fad4db82330009d61461399619fd">f0213ed4db82330009d6146139961901</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:25:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>user info</caption>
+            <header>false</header>
+            <name>x_366669_sri_indu_log_incident</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:25:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f0213ed4db82330009d6146139961901</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>user info</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="sri indu it" source="x_366669_sri_indu">b3cbb1d0db02330009d61461399619ae</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sri indu it">b3cbb1d0db02330009d61461399619ae</sys_scope>
+            <sys_update_name>sys_ui_section_f0213ed4db82330009d6146139961901</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:25:18</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="hello" name="hello">7421fad4db82330009d61461399619fd</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

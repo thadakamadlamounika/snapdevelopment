@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="hello" section_id="f8213ed4db82330009d6146139961900" sys_domain="global" table="x_366669_sri_indu_log_incident" version="3" view="hello">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>inline_checklist_macro</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:25:18</sys_created_on>
+            <sys_id>34213ed4db82330009d61461399619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Checklist">ade76621c3200200e280dccdf3d3ae9a</sys_ui_formatter>
+            <sys_ui_section caption="hello" display_value="hello" name="x_366669_sri_indu_log_incident" sys_domain="global" view="7421fad4db82330009d61461399619fd">f8213ed4db82330009d6146139961900</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:25:18</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_end</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:25:18</sys_created_on>
+            <sys_id>c5213ed4db82330009d61461399619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="hello" display_value="hello" name="x_366669_sri_indu_log_incident" sys_domain="global" view="7421fad4db82330009d61461399619fd">f8213ed4db82330009d6146139961900</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:25:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:25:18</sys_created_on>
+            <sys_id>49213ed4db82330009d61461399619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="hello" display_value="hello" name="x_366669_sri_indu_log_incident" sys_domain="global" view="7421fad4db82330009d61461399619fd">f8213ed4db82330009d6146139961900</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:25:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>hello</caption>
+            <header>false</header>
+            <name>x_366669_sri_indu_log_incident</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:25:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f8213ed4db82330009d6146139961900</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>hello</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="sri indu it" source="x_366669_sri_indu">b3cbb1d0db02330009d61461399619ae</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sri indu it">b3cbb1d0db02330009d61461399619ae</sys_scope>
+            <sys_update_name>sys_ui_section_f8213ed4db82330009d6146139961900</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:25:18</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="hello" name="hello">7421fad4db82330009d61461399619fd</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

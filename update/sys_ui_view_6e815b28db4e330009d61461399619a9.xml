@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_induit3_service_catalog3</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 05:25:21</sys_created_on>
+        <sys_id>6e815b28db4e330009d61461399619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>induit3 service catalog3 View</sys_name>
+        <sys_package display_value="sri indu it" source="x_366669_sri_indu">b3cbb1d0db02330009d61461399619ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sri indu it">b3cbb1d0db02330009d61461399619ae</sys_scope>
+        <sys_update_name>sys_ui_view_6e815b28db4e330009d61461399619a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 05:25:21</sys_updated_on>
+        <title>induit3 service catalog3 View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

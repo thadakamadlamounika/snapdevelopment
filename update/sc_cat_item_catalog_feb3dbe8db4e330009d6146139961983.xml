@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="sindu sales laptop">5e525be8db4e330009d614613996197f</sc_cat_item>
+        <sc_catalog display_value="induit3 service catalog3">6a211ba8db4e330009d614613996193e</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 05:34:55</sys_created_on>
+        <sys_id>feb3dbe8db4e330009d6146139961983</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>induit3 service catalog3.sindu sales laptop</sys_name>
+        <sys_package display_value="sri indu it" source="x_366669_sri_indu">b3cbb1d0db02330009d61461399619ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sri indu it">b3cbb1d0db02330009d61461399619ae</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_feb3dbe8db4e330009d6146139961983</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 05:34:55</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>

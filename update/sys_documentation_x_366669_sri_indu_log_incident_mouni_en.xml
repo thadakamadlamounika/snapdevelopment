@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="mouni" label="Mouni" language="en" table="x_366669_sri_indu_log_incident">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>mouni</element>
+            <help/>
+            <hint/>
+            <label>Mouni</label>
+            <language>en</language>
+            <name>x_366669_sri_indu_log_incident</name>
+            <plural>Mounis</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 06:39:17</sys_created_on>
+            <sys_id>b7d85618db42330009d61461399619c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Mouni</sys_name>
+            <sys_package display_value="sri indu it" source="x_366669_sri_indu">b3cbb1d0db02330009d61461399619ae</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sri indu it">b3cbb1d0db02330009d61461399619ae</sys_scope>
+            <sys_update_name>sys_documentation_x_366669_sri_indu_log_incident_mouni_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 06:39:17</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

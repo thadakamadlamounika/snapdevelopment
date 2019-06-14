@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="log incident" max_length="40" name="x_366669_sri_indu_log_incident" sizeclass="2" type="collection">
+        <element label="afforted user" max_length="32" name="afforted_user" reference="alm_asset" type="reference"/>
+        <element choice="1" label="mouni" max_length="1000" name="mouni" type="journal">
+            <choice/>
+        </element>
+        <element choice="1" label="mouni1" max_length="1000" name="mouni1" type="choice">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="-- New choice --" sequence="0" value="-- New choice --"/>
+                <element inactive_on_update="false" label="email" sequence="0" value="email"/>
+                <element inactive_on_update="false" label="phone" sequence="1" value="phone"/>
+            </choice>
+        </element>
+        <element default="100" label="request date" max_length="40" name="request_date" type="glide_date_time"/>
+        <element label="return date" max_length="50" name="return_date" type="glide_date_time"/>
+        <element default="test default" label="sindu" max_length="100" name="sindu" type="string"/>
+        <element label="sindu3" max_length="100" name="sindu3" read_only="true" type="string"/>
+        <element label="sinduit3" max_length="1000" name="sinduit3" read_only="true" type="string"/>
+    </element>
+</database>
