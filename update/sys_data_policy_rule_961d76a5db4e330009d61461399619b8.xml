@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>short_description</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-15 06:30:29</sys_created_on>
+        <sys_data_policy display_value="">0a5cbe65db4e330009d6146139961931</sys_data_policy>
+        <sys_id>961d76a5db4e330009d61461399619b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>short_description</sys_name>
+        <sys_package display_value="sri indu it" source="x_366669_sri_indu">b3cbb1d0db02330009d61461399619ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sri indu it">b3cbb1d0db02330009d61461399619ae</sys_scope>
+        <sys_update_name>sys_data_policy_rule_961d76a5db4e330009d61461399619b8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-15 06:30:29</sys_updated_on>
+        <table>x_366669_sri_indu_log_incident</table>
+    </sys_data_policy_rule>
+</record_update>

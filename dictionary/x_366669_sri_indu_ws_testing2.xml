@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="ws testing2" max_length="40" name="x_366669_sri_indu_ws_testing2" type="collection">
+        <element label="short description" max_length="100" name="short_description" type="string"/>
+    </element>
+</database>

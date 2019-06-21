@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="suggestion" language="en" table="x_366669_sri_indu_suggestion">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>suggestion</label>
+            <language>en</language>
+            <name>x_366669_sri_indu_suggestion</name>
+            <plural>suggestions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-20 05:23:14</sys_created_on>
+            <sys_id>edcd9093db02330009d614613996197b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>suggestion</sys_name>
+            <sys_package display_value="sri indu it" source="x_366669_sri_indu">b3cbb1d0db02330009d61461399619ae</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sri indu it">b3cbb1d0db02330009d61461399619ae</sys_scope>
+            <sys_update_name>sys_documentation_x_366669_sri_indu_suggestion__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-20 05:23:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

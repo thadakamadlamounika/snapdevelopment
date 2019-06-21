@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>sindu_flow_designer</internal_name>
+        <label_cache>[{"name":"087a9c4c-c1d6-4e7c-8525-9f3f7b163fe3.table_name","label":"4.1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"087a9c4c-c1d6-4e7c-8525-9f3f7b163fe3.record","label":"4.1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"e081ad96-d7c9-4332-82b4-3cce60953d2a.table_name","label":"5➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"e081ad96-d7c9-4332-82b4-3cce60953d2a.record","label":"5➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"733fb201-07ea-46ef-addf-bcbe6819a5bc.item","label":"4➛Task Record","reference":"task","reference_display":"Task","type":"reference","base_type":"reference"},{"name":"0601db98-ee6d-4586-98f1-55d4b18a95dd.Count","label":"3➛Count","reference_display":"Count","type":"integer","base_type":"integer"},{"name":"0601db98-ee6d-4586-98f1-55d4b18a95dd.Table","label":"3➛Task Table","reference":"task","reference_display":"Task","type":"table_name","base_type":"table_name"},{"name":"0601db98-ee6d-4586-98f1-55d4b18a95dd.Records","label":"3➛Task Records","reference":"task","reference_display":"Task","type":"records","base_type":"records"},{"name":"8d907789-20b5-4b6d-abef-45fe0eb0e0fc.Table","label":"3➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"8d907789-20b5-4b6d-abef-45fe0eb0e0fc.Record","label":"3➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"81463c0c-bd94-4306-b8f3-43af65482e23.table_name","label":"2.2➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"81463c0c-bd94-4306-b8f3-43af65482e23.record","label":"2.2➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"625d8bc2-5868-4600-af2e-54fe4984283f.table_name","label":"2.1➛Request Table","reference":"sc_request","reference_display":"Request","type":"table_name","base_type":"table_name"},{"name":"625d8bc2-5868-4600-af2e-54fe4984283f.record","label":"2.1➛Request Record","reference":"sc_request","reference_display":"Request","type":"reference","base_type":"reference"},{"name":"23de2303-ed29-4308-8df3-7ee15bcdef87.table_name","label":"3➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"23de2303-ed29-4308-8df3-7ee15bcdef87.record","label":"3➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"7e32d67a-4001-47d1-9080-01c6d92a67b0.table_name","label":"3➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"7e32d67a-4001-47d1-9080-01c6d92a67b0.record","label":"3➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"9a0751eb-3a40-4758-ba0e-4febb3421799.item","label":"2➛Request Record","reference":"sc_request","reference_display":"Request","type":"reference","base_type":"reference"},{"name":"Updated_1.current","label":"Trigger➛User Record","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference"},{"name":"117248c3-0714-4db2-a070-ffcf219c1993.Count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer"},{"name":"117248c3-0714-4db2-a070-ffcf219c1993.Table","label":"1➛Request Table","reference":"sc_request","reference_display":"Request","type":"table_name","base_type":"table_name"},{"name":"117248c3-0714-4db2-a070-ffcf219c1993.Records","label":"1➛Request Records","reference":"sc_request","reference_display":"Request","type":"records","base_type":"records"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>sindu flow designer</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-21 05:35:56</sys_created_on>
+        <sys_id>d94a252bdb02330009d614613996195d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>sindu flow designer</sys_name>
+        <sys_package display_value="sri indu it" source="x_366669_sri_indu">b3cbb1d0db02330009d61461399619ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sri indu it">b3cbb1d0db02330009d61461399619ae</sys_scope>
+        <sys_update_name>sys_hub_flow_d94a252bdb02330009d614613996195d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-21 06:17:57</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=d94a252bdb02330009d614613996195d"/>
+    <sys_variable_value action="delete_multiple" query="document_key=d94a252bdb02330009d614613996195d"/>
+</record_update>

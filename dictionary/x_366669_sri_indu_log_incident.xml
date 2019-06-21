@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="task" label="log incident" max_length="40" name="x_366669_sri_indu_log_incident" sizeclass="2" type="collection">
+    <element extends="task" label="log incident" max_length="40" name="x_366669_sri_indu_log_incident" sizeclass="21" type="collection">
         <element label="afforted user" max_length="32" name="afforted_user" reference="alm_asset" type="reference"/>
+        <element choice="1" label="category" max_length="100" name="category" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="hardware" value="hw"/>
+                <element inactive_on_update="false" label="network" value="nw"/>
+                <element inactive_on_update="false" label="software" value="sw"/>
+            </choice>
+        </element>
         <element choice="1" label="mouni" max_length="1000" name="mouni" type="journal">
             <choice/>
         </element>
